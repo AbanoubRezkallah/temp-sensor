@@ -11,9 +11,9 @@ const byte DHT_TYPE = 11;
 
 DHT dht(DHT_PIN, DHT_TYPE);
 
-#define TOKEN "BBFF-1nTpECa3iUvDUM8QwYfG0eJpGSde0K"
-#define WIFISSID "Maged"
-#define PASSWORD "Maged840"
+#define TOKEN "..."
+#define WIFISSID "..."
+#define PASSWORD "...."
 
 Ubidots client(TOKEN);
  
